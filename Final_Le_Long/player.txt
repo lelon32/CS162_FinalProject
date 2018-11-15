@@ -1,0 +1,12 @@
+
+   ISA'S STATS
+
+   Hit Points:    12
+   Armor:          2
+   Attack Dice:  2d8
+   Defense Dice: 2d6
+   Movement:       5
+
+   Weapon: Sword
+
+     **Max Stats**
