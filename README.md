@@ -1,5 +1,5 @@
 # CS162_FinalProject - Isa's Adventures Text Based Game
-Use Linux environment to compile with makefile
+Use C++ 11 to compile with makefile
 
 run "make" command to compile
 
