@@ -4,3 +4,5 @@ Use C++ 11 to compile with makefile on a Linux environment
 run "make" command to compile
 
 run ./final to execute
+
+Demo: https://youtu.be/7q6qxSMgim8
